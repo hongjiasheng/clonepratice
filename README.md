@@ -1,0 +1,2 @@
+# clonepratice
+git clone pratice
